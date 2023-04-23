@@ -129,3 +129,15 @@ push "route 95.163.254.0 255.255.255.0"
 # 4pda CDN
 push "route 95.213.133.0 255.255.255.0"
 push "route 31.131.253.0 255.255.255.0"
+
+# opennet.ru
+push "route 217.65.3.21"
+
+# electrotransport.ru
+push "route 185.154.20.34"
+
+# f1news.ru
+push "route 5.188.186.186"
+
+# forum.f1news.ru
+push "route 212.92.100.181"
