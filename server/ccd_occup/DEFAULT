@@ -767,7 +767,12 @@ push "route 138.197.180.36"
 push "route 195.137.240.0 255.255.254.0"
 
 # online.oschadbank.ua
+push "route 45.223.18.0 255.255.255.0"
 push "route 45.223.20.0 255.255.255.0" 
+push "route 45.223.22.0 255.255.255.0"
+push "route 45.223.24.0 255.255.255.0"
+push "route 45.223.26.0 255.255.255.0"
+
 
 # gtu.net.ua | Meta CDN
 push "route 91.236.138.0 255.255.254.0"

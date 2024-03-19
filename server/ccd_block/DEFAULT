@@ -210,3 +210,12 @@ push "route 37.9.3.252 255.255.255.255"
 
 # drive2.ru
 push "route 91.215.43.178 255.255.255.255"
+
+# easynod.servebeer.com, easynod.ru 
+push "route 77.232.148.0 255.255.255.0"
+
+# rtk, for yandex.music
+push "route 95.167.47.0 255.255.255.0"
+push "route 178.185.243.0 255.255.255.0"
+push "route 178.185.244.0 255.255.255.0"
+push "route 178.34.88.0 255.255.252.0"
