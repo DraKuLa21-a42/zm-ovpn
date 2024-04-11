@@ -230,3 +230,6 @@ push "route 89.248.160.57 255.255.255.255"
 
 # livejournal.com
 push "route 81.19.74.0 255.255.255.0"
+
+# digitalcore.club
+push "route 185.158.113.234 255.255.255.255"
