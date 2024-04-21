@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+ <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DEQR5GKKCM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DEQR5GKKCM');
+</script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Головна zm.ovpn</title>
+ </head>
+<p style="text-align:center"><strong><span style="font-size:20px">Інформація про цей VPN-сервер</span></strong></p>
+<p style="text-align:center"><strong><span style="font-size:20px"><a href="https://zm.dmsrvc.com/ovpn/graphs.html" target="_blank">Графіки навантаження</a></span></strong></p>
+
+<hr />
+<table border="1" style="border:1px solid #000000; width:100%">
+        <tbody>
+                <tr>
+                        <td>
+                        <p style="text-align:center"><strong><span style="font-size:18px">Порт</span></strong></p>
+                        </td>
+                        <td>
+                        <p style="text-align:center"><strong><span style="font-size:18px">Протокол</span></strong></p>
+                        </td>
+                        <td>
+                        <p style="text-align:center"><strong><span style="font-size:18px">Маршрути</span></strong></p>
+                        </td>
+                        <td>
+                        <p style="text-align:center"><strong><span style="font-size:18px">Опис</span></strong></p>
+                        </td>
+                </tr>
+                <tr>
+                        <td>
+                        <p style="text-align:center">1194</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">UDP/TCP</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center"><a href="https://zm.dmsrvc.com/ovpn/block/DEFAULT" target="_blank">Скачати</a></p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">Звичайний конфіг. В основному, сайти, які були заблоковані в 2017 році.</p>
+                        </td>
+                </tr>
+                <tr>
+                        <td>
+                        <p style="text-align:center">1199</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">UDP/TCP</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center"><a href="https://zm.dmsrvc.com/ovpn/youtube/DEFAULT" target="_blank">Скачати</a></p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">Звичайний + підмережі google та youtube.</p>
+                        </td>
+                </tr>
+                <tr>
+                        <td>
+                        <p style="text-align:center">666</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">UDP/TCP</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center"><a href="https://zm.dmsrvc.com/ovpn/block/DEFAULT" target="_blank">Скачати</a></p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">Звичайний, для MikroTik. Шифрування SHA1, tls-crypt вимкнений.</p>
+                        </td>
+                </tr>
+                <tr>
+                        <td>
+                        <p style="text-align:center">1111</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">UDP/TCP</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center"><a href="https://zm.dmsrvc.com/ovpn/test/DEFAULT" target="_blank">Скачати</a></p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">Тестовий конфіг, з усіма підмережами рашки. 13.5 тис. маршрутів.</p>
+                        </td>
+                </tr>
+                <tr>
+                        <td>
+                        <p style="text-align:center">1488</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">UDP/TCP</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center"><a href="https://zm.dmsrvc.com/ovpn/ccd_occup/DEFAULT" target="_blank">Скачати</a></p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">Конфіг для тимчасово окупованих територій. Більшість маршрутів взяті у <a href="https://github.com/zhovner/zaborona_help/blob/master/config/openvpn/ccd_zaborona_occupied_territories_routes/DEFAULT" style="color:#000080; text-decoration:underline" target="_blank">Заборони</a>.</p>
+                        </td>
+                <tr>
+                        <td>
+                        <p style="text-align:center">2222</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">UDP/TCP</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center"><a href="https://zm.dmsrvc.com/ovpn/test/DEFAULT" target="_blank">Скачати</a></p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">Тестовий конфіг, з усіма підмережами рашки. 13.5 тис. маршрутів. Шифрування SHA1, tls-crypt вимкнений.</p>
+                        </td>
+                <tr>
+                        <td>
+                        <p style="text-align:center">14880</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">UDP/TCP</p>
+                        </td>
+                        <td>
+                        <p style="text-align:center"><a href="https://zm.dmsrvc.com/ovpn/ccd_occup/DEFAULT" target="_blank">Скачати</a></p>
+                        </td>
+                        <td>
+                        <p style="text-align:center">Конфіг для тимчасово окупованих територій. Трафік виходить через сервер в Україні. Більшість маршрутів взяті у <a href="https://github.com/zhovner/zaborona_help/blob/master/config/openvpn/ccd_zaborona_occupied_territories_routes/DEFAULT" style="color:#000080; text-decoration:underline" target="_blank">Заборони</a>.</p>
+                        </td>
+                </tr>
+                </tr>
+        </tbody>
+</table>
+
+<p>Тобто, щоб перейти з одного конфігу на інший, достатньо в клієнтському конфігу змінити порт та/або протокол і, при необхідності, змінити шифрування SHA512 &lt;-&gt; SHA1, а також видалити (закоментувати) або додати блок з tls-crypt.<br />
+Також, на сервері встановлений AdGuardHome. Всі DNS запити йдуть через нього, що дозволяє трішки зменшити кількість трафіка і кількість реклами в браузері.</p>
+
+<hr />
+<p>Файли: <a href="https://zm.dmsrvc.com/ovpn/zm.ovpn" target="_blank">zm.ovpn</a>&nbsp;<a href="https://zm.dmsrvc.com/ovpn/zm.ca.crt" target="_blank">zm.ca.crt</a>&nbsp;<a href="https://zm.dmsrvc.com/ovpn/zm.crt" target="_blank">zm.crt</a>&nbsp;<a href="https://zm.dmsrvc.com/ovpn/zm.key" target="_blank">zm.key</a>&nbsp;<a href="https://zm.dmsrvc.com/ovpn/zm.tls-crypt" target="_blank">zm.tls-crypt</a></p>
+
+<hr />
+<p style="text-align:center"><em><strong><span style="font-size:20px">Налаштування MikroTik</span></strong></em></p>
+
+<hr />
+<p><strong>Завантажуємо сертифікати на Mikrotik та імпортуємо їх:</strong><br />
+<em>/tool fetch url=https://zm.dmsrvc.com/ovpn/zm.crt<br />
+/certificate import file-name=zm.crt passphrase=&quot;&quot;<br />
+/tool fetch url=https://zm.dmsrvc.com/ovpn/zm.key<br />
+/certificate import file-name=zm.key passphrase=&quot;&quot;<br />
+/certificate set [ find fingerprint=&quot;6b2dbb06509505a2fd818b065fa764c3f5b2fe19f70acafb91adc927aa26a598&quot; ] name=zm.crt</em></p>
+
+<p><br />
+<strong>Створюємо інтерфейс для клієнта OpenVPN згідно із налаштуваннями.</strong></p>
+
+<p><strong>Підключення до OpenVPN:</strong><br />
+<em>/interface ovpn-client add name=&quot;zm&quot; connect-to=zm.dmsrvc.com port=666 add-default-route=no disabled=no certificate=zm.crt user=&quot;none&quot; password=&quot;none&quot; cipher=aes256 protocol=udp</em></p>
+
+<p><strong>Не забуваємо налаштувати NAT додавши правило &quot;маскарадінгу&quot;:</strong><br />
+<em>/ip firewall nat add chain=srcnat action=masquerade out-interface=zm</em></p>
+
+<p><strong>Як будь-який WAN інтерфейс ovpn-client повинен бути в списку WAN:</strong><br />
+<em>/interface list member add interface=zm list=WAN</em><br />
+&nbsp;</p>
+<p>Основна інструкція на <a href="https://github.com/zhovner/zaborona_help/wiki/Mikrotik" target="_blank">Github</a></p><hr>
+Сервер придбаний на <a href="https://zomro.com/vds?from=185426" target="_blank">zomro.com</a></p>
