@@ -807,3 +807,11 @@ push "route 46.4.66.102"
 
 # jskor.ill.in.ua - korrespondent.net
 push "route 193.29.200.151 255.255.255.255"
+
+# TikTok
+push "route 118.26.132.0 255.255.255.0"
+push "route 103.136.222.0 255.255.255.0"
+push "route 103.136.220.0 255.255.254.0"
+push "route 71.18.255.0 255.255.255.0"
+push "route 71.18.252.0 255.255.254.0"
+push "route 71.18.247.0 255.255.255.0"
