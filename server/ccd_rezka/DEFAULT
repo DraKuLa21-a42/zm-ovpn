@@ -10,6 +10,9 @@ push "route 46.4.38.254 255.255.255.255"
 # push "route 176.58.40.0 255.255.248.0"
 # push "route 176.58.38.0 255.255.254.0"
 
+# Site rezka.ag
+push "route 82.221.104.145 255.255.255.255"
+
 ## https://rezka.ag/glory-to-ukraine.html
 # AS47328
 push "route 83.222.124.0 255.255.252.0"
