@@ -784,7 +784,7 @@ push "route 195.78.38.0 255.255.254.0"
 push "route 185.192.248.0 255.255.255.0"
 
 # sinoptik.ua
-#push "route 212.42.76.150"
+push "route 212.42.76.150"
 push "route 212.42.73.103"
 
 # gismeteo.ua
