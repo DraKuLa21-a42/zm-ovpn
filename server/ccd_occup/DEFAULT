@@ -1,3 +1,6 @@
+# DNS Routing
+push "route 10.224.0.0 255.254.0.0"
+
 # 2ip.ua
 push "route 162.0.217.254"
 push "route 123.123.123.123 255.255.255.255"
