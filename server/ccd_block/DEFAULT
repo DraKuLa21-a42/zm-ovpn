@@ -1,4 +1,8 @@
 # Routes
+
+# DNS Routing
+push "route 10.224.0.0 255.254.0.0"
+
 # Yandex network
 push "route 5.45.192.0 255.255.192.0"
 push "route 5.255.192.0 255.255.192.0"
