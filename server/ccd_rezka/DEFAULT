@@ -1,3 +1,6 @@
+# DNS Routing
+push "route 10.224.0.0 255.254.0.0"
+
 # 2ip.io
 push "route 46.4.38.254 255.255.255.255"
 
