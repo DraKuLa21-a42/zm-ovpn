@@ -31,7 +31,6 @@ server=/jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net/127.0.0.4#5
 server=/atlassian.net/127.0.0.4#5959
 server=/asana.com/127.0.0.4#5959
 server=/spotify.com/127.0.0.4#5959
-server=/tiktokv.com/127.0.0.4#5959
 server=/megogo.net/127.0.0.4#5959
 server=/vcdn.biz/127.0.0.4#5959
 server=/linkedin.com/127.0.0.4#5959
